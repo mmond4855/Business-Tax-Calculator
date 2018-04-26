@@ -1,0 +1,3 @@
+﻿  Tax.cpp
+c:\users\mariod\desktop\business tax calculator\tax.cpp(149): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Business Tax Calculator.vcxproj -> C:\Users\MarioD\Desktop\Business Tax Calculator\Debug\Business Tax Calculator.exe
